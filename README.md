@@ -2,4 +2,4 @@ This is a simple batch script and powershell script that work together to email 
 
 It's a pretty useless script, but is helpful when you have a spotty internet connection. I mainly wrote this due to my internet dropping frequently. 
 
-As stated in `emai.ps1` use a dummy email to send emails as using SMTP commands through powershell requires you to lower the security on your email. 
+As stated in `email.ps1` use a dummy email to send emails as using SMTP commands through powershell requires you to lower the security on your email. 
